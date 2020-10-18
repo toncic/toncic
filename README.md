@@ -6,9 +6,7 @@ I'm experienced in wide range of technologies from designing database all the wa
 
 Few latest projects that I'm working with:
  - https://www.finavia.fi/en (Drupal8 + React)
- - https://folkofolkki.se/ Gatsby static site
- - https://folkofolkki.se/ Drupal8 Ecommerce
- 
+ - https://folkofolkki.se/ Gatsby static site 
  
  I have been working on Drupal8 open-source projects, more details can be found here: https://www.drupal.org/u/toncic
 <!--
