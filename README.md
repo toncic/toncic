@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Milan
 
-I’m currently working in Wunder (Digital agency) as a Senior Full-stack Developer.
-
 I'm experienced in wide range of technologies from designing database all the way to moving button 2px left.
 
 Few latest projects that I'm working with:
